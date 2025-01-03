@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8F2&background=282A36&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Stanislav+Markovtsev;Android+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8F8F2&background=282A36&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Stanislav+Markovtsev;Android+developer" alt="Typing SVG" /></a>
 
 - 📫 How to reach me: s.markovtsev@proton.me
 
