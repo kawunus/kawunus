@@ -3,7 +3,7 @@
   
 </div>
 
-<h3 align="center">Android developerr</h3>
+<h3 align="center">Android developer</h3>
 
 
 - 📫 How to reach me: s.markovtsev@proton.me
