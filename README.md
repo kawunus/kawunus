@@ -30,18 +30,6 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#366](https://github.com/DenverCoder1/readme-typing-svg/pull/366) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. ❌ Closed PR [#364](https://github.com/DenverCoder1/readme-typing-svg/pull/364) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#364](https://github.com/DenverCoder1/readme-typing-svg/issues/364) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. ❗️ Closed issue [#368](https://github.com/DenverCoder1/readme-typing-svg/issues/368) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🗣 Commented on [#368](https://github.com/DenverCoder1/readme-typing-svg/issues/368) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-<!--END_SECTION:activity-->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kawunus's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kawunus&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
