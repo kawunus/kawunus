@@ -25,13 +25,14 @@ I'm also interested in **DevOps**, automation, microcontrollers, and exploring c
 ## 📊 Stats
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true&theme=tokyonight">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true&theme=dark-dracula">
+  <img align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true&theme=dark-dracula" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact&theme=tokyonight">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact&theme=dark-dracula">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact&theme=dark-dracula" />
 </a>
 </div>
+
 <br clear="all" />
 
 ## 📬 Contact Me
