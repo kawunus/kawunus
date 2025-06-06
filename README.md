@@ -10,7 +10,7 @@ I'm also interested in **DevOps**, automation, microcontrollers, and exploring c
 
 
 ## 📬 Contact Me
-- Email: [s.markovtsev@gmail.com]
-- Telegram: [@kawunus](t.me/kawunus)
+- Email: s.markovtsev@gmail.com
+- Telegram: [@kawunus](https://t.me/kawunus)
 - LinkedIn: [Your LinkedIn]  
 - GitHub: [Your GitHub URL]
