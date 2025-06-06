@@ -10,7 +10,18 @@ I'm also interested in **DevOps**, automation, microcontrollers, and exploring c
 
 
 ## 📬 Contact Me
-- Email: s.markovtsev@gmail.com
-- Telegram: [@kawunus](https://t.me/kawunus)
-- LinkedIn: [@kawunus](https://www.linkedin.com/in/kawunus/)
-- GitHub: [@kawunus](https://github.com/kawunus)
+
+<p align="left">
+  <a href="mailto:s.markovtsev@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/kawunus" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kawunus/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kawunus" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
