@@ -7,10 +7,10 @@ I use **Arch Linux** as my main development environment.
 I'm also interested in **DevOps**, automation, microcontrollers, and exploring concepts from **Computer Science**, such as algorithms, data structures, and system design.
 
 ## 🎓 Education
-Belarusian State University of Informatics and Radioelectronics (BSUIR)
-Faculty of Information Technologies and Management
-Bachelor’s degree in Automated Information Processing Systems
-2023 – 2027 (currently 2nd year)
+Belarusian State University of Informatics and Radioelectronics (BSUIR).  
+Faculty of Information Technologies and Management.  
+Bachelor’s degree in Automated Information Processing Systems.  
+2023 – 2027 (currently 2nd year).  
 
 ## 🛠 Hard Skills
 ### Android Development
