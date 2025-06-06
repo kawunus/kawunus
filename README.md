@@ -18,6 +18,7 @@ I'm also interested in **DevOps**, automation, microcontrollers, and exploring c
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact" />
 </a>
 </div>
+<br clear="all" />
 
 ## 📬 Contact Me
 
