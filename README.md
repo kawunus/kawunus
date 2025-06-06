@@ -1,13 +1,16 @@
 # 👋 Stanislav Markovtsev | Android Software Engineer
-
 ## 🧑‍💻 About me
-
 Hi there! I'm Stanislav.
 I'm primarily an **Android developer** who enjoys building apps with clean architecture and modern tools.  
 I work mostly with **Kotlin**, **Jetpack**, and the **Android SDK**.  
 I use **Arch Linux** as my main development environment.  
 I'm also interested in **DevOps**, automation, microcontrollers, and exploring concepts from **Computer Science**, such as algorithms, data structures, and system design.
 
+# 🎓 Education
+Belarusian State University of Informatics and Radioelectronics (BSUIR)
+Faculty of Information Technologies and Management
+Bachelor’s degree in Automated Information Processing Systems
+2023 – 2027 (currently 2nd year)
 
 ## 🛠 Hard Skills
 ### Android Development
