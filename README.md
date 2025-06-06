@@ -8,6 +8,16 @@ I work mostly with **Kotlin**, **Jetpack**, and the **Android SDK**.
 I use **Arch Linux** as my main development environment.  
 I'm also interested in **DevOps**, automation, microcontrollers, and exploring concepts from **Computer Science**, such as algorithms, data structures, and system design.
 
+## Stats
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact" />
+</a>
+</div>
 
 ## 📬 Contact Me
 
