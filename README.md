@@ -10,14 +10,11 @@ I'm also interested in **DevOps**, automation, microcontrollers, and exploring c
 
 ## Stats
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact" />
-</a>
-</div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawunus&show_icons=true&theme=tokyonight&hide=contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact&theme=tokyonight" />
+</p>
 <br clear="all" />
 
 ## 📬 Contact Me
