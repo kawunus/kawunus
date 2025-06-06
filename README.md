@@ -17,7 +17,7 @@ Bachelor’s degree in Automated Information Processing Systems.
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
@@ -52,7 +52,7 @@ Bachelor’s degree in Automated Information Processing Systems.
 <p align="left"> <img src="https://img.shields.io/badge/Arduino-D2492A?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP8266-FF6F00?style=for-the-badge&logo=esp8266&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/> </p>
 
 ### Other Skills & Tools
-<p align="left"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Obsidian-4B4B4B?style=for-the-badge&logo=obsidian&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/Wolfram%20Language-FF6600?style=for-the-badge&logo=wolfram&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Obsidian-4B4B4B?style=for-the-badge&logo=obsidian&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/Wolfram%20Language-FF6600?style=for-the-badge&logo=wolfram&logoColor=white"/> <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
 
 ## 📊 Stats
 
