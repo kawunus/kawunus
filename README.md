@@ -54,19 +54,6 @@ Bachelor’s degree in Automated Information Processing Systems.
 ### Other Skills & Tools
 <p align="left"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Obsidian-4B4B4B?style=for-the-badge&logo=obsidian&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> <img src="https://img.shields.io/badge/Wolfram%20Language-FF6600?style=for-the-badge&logo=wolfram&logoColor=white"/> <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
 
-## 📊 Stats
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true&theme=dark-dracula">
-  <img align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=kawunus&hide=contribs&show_icons=true&theme=dark-dracula" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact&theme=dark-dracula">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawunus&layout=compact&theme=dark-dracula" />
-</a>
-</div>
-
-<br clear="all" />
-
 ## 📬 Contact Me
 
 <p align="left">
