@@ -73,7 +73,7 @@ Bachelor’s degree in Automated Information Processing Systems.
   <a href="mailto:s.markovtsev@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/kawunus" target="_blank">
+  <a href="https://t.me/kawun812" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kawunus/" target="_blank">
