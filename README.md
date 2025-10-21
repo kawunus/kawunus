@@ -10,7 +10,7 @@ I'm also interested in **DevOps**, automation, microcontrollers, and exploring c
 Belarusian State University of Informatics and Radioelectronics (BSUIR).  
 Faculty of Information Technologies and Management.  
 Bachelor’s degree in Automated Information Processing Systems.  
-2023 – 2027 (currently 2nd year).  
+2023 – 2027 (currently 3nd year).  
 
 ## 🛠 Hard Skills
 ### Android Development
